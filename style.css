@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    font-family: "Inter";  
+}
+ #title-one{
+    margin-left: 100px;
+    font-size: 50px;
+    font-weight: 600;
+    padding-top: 180px;
+
+    
+ }
+ #title-two{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+#frameBlack{
+     background-color: #303030;
+     color: #FFFFFF;   
+     height: 450px;
+}
+
+
+
+   
+    
