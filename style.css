@@ -28,6 +28,7 @@
     margin-left: 150px;
     margin-top: 70px;
 }
+
 #head-2{
     display: grid;
     grid-auto-flow: column;
@@ -46,10 +47,16 @@
     font-weight: 500;
     margin-left: 60px;
 }
-#img-projeto{
+
+#imgProjeto{
     width: 510px;
     height: 605px;
     margin-left: 20px;
+   
+}
+.card{
+    box-shadow: 20px 20px 10px gray;
+    border-radius: 10px;
 }
 #finalform{
     background-color: #303030;
